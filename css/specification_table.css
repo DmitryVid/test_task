@@ -1,0 +1,12 @@
+#specificationBlock input{
+    width: 100%;
+    height: 100%;
+}
+
+.spec_header {
+    font-size: 30px;
+}
+
+.addNewRowToSpecTableButton{
+    cursor: pointer;
+}
